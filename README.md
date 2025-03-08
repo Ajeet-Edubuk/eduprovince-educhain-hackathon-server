@@ -1,1 +1,2 @@
-# Edubuk-xdc-mainnet-application-official
+# Eduprovince-educhain-hackathon-backend
+
